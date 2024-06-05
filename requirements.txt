@@ -3,7 +3,7 @@ snowflake-connector-python
 snowflake-snowpark-python
 streamlit==1.31.1
 requests
-pip install "snowflake-connector-python[pandas]"
+snowflake-connector-python[pandas]
 import pandas as pd
 
 
